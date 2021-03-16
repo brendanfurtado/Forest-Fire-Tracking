@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11917f56-b3e8-48ec-96f9-58dd0099bda1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ForestFireTracker_jar/ForestFireTracker.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ForestFireTracker_jar/ForestFireTracker.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aJuLOOjL1uQNqS2xwVBULlgQeD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/argparse4j-0.8.1.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatabaseApp" />
+      <module name="ForestFireTracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11917f56-b3e8-48ec-96f9-58dd0099bda1" name="Default" comment="" />
+      <created>1582250425163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582250425163</updated>
+      <workItem from="1582250429570" duration="592000" />
+      <workItem from="1582404342491" duration="698000" />
+      <workItem from="1582571926701" duration="7195000" />
+      <workItem from="1582729289569" duration="3871000" />
+      <workItem from="1586465966591" duration="8020000" />
+      <workItem from="1586559078515" duration="2739000" />
+      <workItem from="1586623404768" duration="7598000" />
+      <workItem from="1586707688211" duration="8873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="366" key="#SQL_Dialects" timestamp="1586468822661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="349" y="366" key="#SQL_Dialects/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586468822661" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586468394613">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586468394613" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1586467217534">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586467217534" />
+    <state x="689" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586562508026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586562508026" />
+    <state x="666" y="266" key="FileChooserDialogImpl" timestamp="1586466742736">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="666" y="266" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586466742736" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1586721738894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721738894" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1586721738894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721738894" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1586721738894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721738894" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1586721738894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721738894" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1586721508842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721508842" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1586721508841">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721508841" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1586721508841">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721508841" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1586721508841">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586721508841" />
+    <state x="741" y="139" key="SettingsEditor" timestamp="1586562519262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="139" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586562519262" />
+    <state x="664" y="416" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586466616546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="416" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586466616546" />
+    <state x="570" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586628102079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="570" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586628102079" />
+    <state x="-1482" y="0" width="1498" height="1032" key="dock-window-1" timestamp="1586709038324">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1482" y="0" width="1498" height="1032" key="dock-window-1/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586709038324" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586626152286">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586626152286" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatabaseApp.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatabaseApp.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QueryManager.java</url>
+          <line>445</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QueryManager.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatabaseApp.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatabaseApp.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
